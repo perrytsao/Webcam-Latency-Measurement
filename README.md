@@ -8,6 +8,7 @@ FPS (frames per second) is printed in the console.
 
 The image will look something like this:
 ![Example latency image](./USBFHD01M_latency100.jpg)
+
 In this case the latency is 102.567s - 102.459s = 0.108s
 
 To take a snapshot of the image and save it as a .jpg, press the spacebar.  ESC exits and quits program. You'll want to take a few snapshots to get an averaged value.  The latency can jump around quite a bit. 
